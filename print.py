@@ -1,6 +1,7 @@
 Hi Sukesh,
 
-Let's print something in Python 3 version.
+Let's print something in Python.
 
 print("Hello World")
 
+print "Hello World"
